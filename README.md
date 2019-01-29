@@ -16,9 +16,9 @@ I already have a functioning knowledge of C++, and it's already making a margina
 * Can type ~70 words a minute.
 
 # Qualitative Attainments
-*Creative - Beneficial at times, but prone to daydreaming.
-*Trustworthy - Truthful and loyal, sometimes to a fault.
-*Confident in my own abilities - Confident, but sometimes end up losing the scope of my abilities.
+* Creative - Beneficial at times, but prone to daydreaming.
+* Trustworthy - Truthful and loyal, sometimes to a fault.
+* Confident in my own abilities - Confident, but sometimes end up losing the scope of my abilities.
 
 # Golden Circle
 * Why: Enjoyable and fulfilling career.
